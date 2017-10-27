@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parse Push</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">wQFLn2nDPDCsh9lo0emiMwLYP2CgERnebD5cr71F</string>
+    <string name="back4app_client_key">bps1sMX0dTur01iHfJb6DGfFQ9HPaixKgHGKfEKt</string>
+</resources>
